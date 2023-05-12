@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "orders": [
+        {
+          "id": 1,
+          "product": "Product A"
+        },
+        {
+          "id": 2,
+          "product": "Product B"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "orders": [
+        {
+          "id": 3,
+          "product": "Product C"
+        },
+        {
+          "id": 4,
+          "product": "Product D"
+        }
+      ]
+    }
+  ]
+}
